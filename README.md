@@ -1,7 +1,7 @@
 # HR_data_analytics_dashboard_PowerBi 
 
 # Project Objective -
-The project is an HR Analytics Dashboard , shows data regarding attrition of various employees and helped the company realise various reasons of attrition.
+The project is an HR Analytics Dashboard , shows data regarding attrition of various employees to help the company know reasons of Attrition.
 
 # Problem Statement -
 
